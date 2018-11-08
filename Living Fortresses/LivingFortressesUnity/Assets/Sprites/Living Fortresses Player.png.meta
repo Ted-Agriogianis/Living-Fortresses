@@ -1,0 +1,489 @@
+fileFormatVersion: 2
+guid: 800cd45f51d5341caa71d957e858233c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Living Fortresses Player_0
+    21300002: Living Fortresses Player_1
+    21300004: Living Fortresses Player_2
+    21300006: Living Fortresses Player_3
+    21300008: Living Fortresses Player_4
+    21300010: Living Fortresses Player_5
+    21300012: Living Fortresses Player_6
+    21300014: Living Fortresses Player_7
+    21300016: Living Fortresses Player_8
+    21300018: Living Fortresses Player_9
+    21300020: Living Fortresses Player_10
+    21300022: Living Fortresses Player_11
+    21300024: Living Fortresses Player_12
+    21300026: Living Fortresses Player_13
+    21300028: Living Fortresses Player_14
+    21300030: Living Fortresses Player_15
+    21300032: Living Fortresses Player_16
+    21300034: Gun
+    21300036: Player Projectile
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Living Fortresses Player_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 740
+        width: 191
+        height: 236
+      alignment: 9
+      pivot: {x: 0.7420156, y: 0.65790534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700737d18b12145059442804878f7fb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Living Fortresses Player_2
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 772
+        width: 174
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.71063143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d82da397ed6b452394a8a0a477993c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Living Fortresses Player_3
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 738
+        width: 206
+        height: 250
+      alignment: 9
+      pivot: {x: 0.37253073, y: 0.14670141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c66eefaffd814c96a98f90e04ce58bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Living Fortresses Player_4
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 753
+        width: 199
+        height: 217
+      alignment: 9
+      pivot: {x: 0.39203894, y: 0.20298128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1782bb3a7536f4503a1364360a73d634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Living Fortresses Player_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 451
+        width: 165
+        height: 178
+      alignment: 9
+      pivot: {x: 0.84722227, y: 0.68775445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2b0bc22f6ef432586097edd4a585e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Living Fortresses Player_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 67
+        width: 139
+        height: 547
+      alignment: 9
+      pivot: {x: 0.36017087, y: 0.15856256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fcfa379e5054a2892b9d308defd66d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Living Fortresses Player_7
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 442
+        width: 97
+        height: 188
+      alignment: 9
+      pivot: {x: 0.54922014, y: 0.8809295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151982dfb9dc4479399b805fd9a0b348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Living Fortresses Player_8
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 484
+        width: 141
+        height: 153
+      alignment: 9
+      pivot: {x: 0.07674587, y: 0.79644454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e145ed0ed5f4e70bca30a4d4974d54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Living Fortresses Player_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 243
+        width: 116
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5617368, y: 0.8003706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1659d483d6740a89c000d172deb02a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Living Fortresses Player_10
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 68
+        width: 107
+        height: 197
+      alignment: 9
+      pivot: {x: 0.29589787, y: 0.8505089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3c4140250044dbf813a60af3c176b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Living Fortresses Player_11
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 242
+        width: 99
+        height: 144
+      alignment: 9
+      pivot: {x: 0.6929019, y: 0.83154935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da998b9788988427db79f01ed294dc8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Living Fortresses Player_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 245
+        width: 79
+        height: 151
+      alignment: 9
+      pivot: {x: 0.4697822, y: 0.8319882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c154d1125efc448b0a363ddbedf68e25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Living Fortresses Player_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 81
+        width: 112
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4573724, y: 0.81033003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d3690bd26374b8989f88b97266eb7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Living Fortresses Player_14
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 97
+        width: 140
+        height: 117
+      alignment: 9
+      pivot: {x: 0.21013184, y: 0.66322434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac982752d2434b77ba66c0878a6acf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Living Fortresses Player_15
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 104
+        width: 110
+        height: 94
+      alignment: 9
+      pivot: {x: 0.32638937, y: 0.728558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f5e25ca1b8240858a7d303ab539920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Living Fortresses Player_16
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 106
+        width: 134
+        height: 95
+      alignment: 9
+      pivot: {x: 0.28622574, y: 0.8266637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b83c02a91f94ae5878245f2001fa3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 598
+        width: 207
+        height: 137
+      alignment: 9
+      pivot: {x: 0.28631473, y: 0.24510427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b15b4e830d7b4777be803b7b8adfea4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Projectile
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 46
+        width: 84
+        height: 154
+      alignment: 9
+      pivot: {x: 0.49999854, y: 0.6814053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b48880b153c4836ae2c15cb4cc719b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2038ddc3cd01e4faea782cbcebe03776
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

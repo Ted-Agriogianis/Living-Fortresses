@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: aa0597f0582604c6f99c88ea93824139
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Goram Stand in_0
+    21300002: Goram Stand in_1
+    21300004: Goram Stand in_2
+    21300006: Goram Stand in_3
+    21300008: Goram Stand in_4
+    21300010: Goram Stand in_5
+    21300012: Goram Stand in_6
+    21300014: Goram Stand in_7
+    21300016: Goram Stand in_8
+    21300018: Goram Stand in_9
+    21300020: Goram Stand in_10
+    21300022: Goram Stand in_11
+    21300024: Goram Stand in_12
+    21300026: Power Cell
+    21300028: Top Flap
+    21300030: Flap 2
+    21300032: Sentry Body
+    21300034: Turret
+    21300036: Rocket
+    21300038: Enemy Projectile
+    21300040: Goram Turret
+    21300042: Goram Laser
+    21300044: Goram Missile Launcher
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goram Stand in_0
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 2474
+        width: 984
+        height: 524
+      alignment: 9
+      pivot: {x: 0.48544422, y: 0.7733378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb87756008a2b49ffbcca91b3884631c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goram Stand in_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2181
+        width: 613
+        height: 269
+      alignment: 9
+      pivot: {x: 0.17288616, y: 0.6064898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839d0f028eec44a0d95dc460ca3769be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goram Stand in_2
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1536
+        width: 890
+        height: 740
+      alignment: 9
+      pivot: {x: 0.73335123, y: 0.75161856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0072e0c8e0fd1422fb9fd75b0c2644fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goram Stand in_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1385
+        width: 797
+        height: 662
+      alignment: 9
+      pivot: {x: 0.75159466, y: 0.7596297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4c160746bf44ddca031e2f665cd4a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goram Stand in_4
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1424
+        width: 506
+        height: 322
+      alignment: 9
+      pivot: {x: 0.7715923, y: 0.45551825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14f9c78837df4595aa6e3bffc93d96e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goram Stand in_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 699
+        width: 681
+        height: 576
+      alignment: 9
+      pivot: {x: 0.6472254, y: 0.7735278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9e22265289d479ab8594df495d6788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goram Stand in_6
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 876
+        width: 550
+        height: 241
+      alignment: 9
+      pivot: {x: 0.17447932, y: 0.5594308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362cc8e3b9965433bac58874e0bd4771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goram Stand in_7
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 684
+        width: 762
+        height: 643
+      alignment: 9
+      pivot: {x: 0.65976983, y: 0.7561635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db477578958dd4a4aab70dc8e94581f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goram Stand in_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 284
+        width: 448
+        height: 289
+      alignment: 9
+      pivot: {x: 0.819708, y: 0.45043978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4fbf9bf8d2546d9bf276f25721b981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goram Stand in_9
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 321
+        width: 247
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6008e23d843154853b16adb7d281e6e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goram Stand in_10
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 297
+        width: 239
+        height: 290
+      alignment: 9
+      pivot: {x: 0.1703933, y: 0.475304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80801ad3f302c42da8d3a1a950acb13f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goram Stand in_11
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 260
+        width: 275
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338672899f33f4a9fb9a97a48540444a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goram Stand in_12
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 246
+        width: 268
+        height: 322
+      alignment: 9
+      pivot: {x: 0.15261568, y: 0.43327796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db154921cc6044fbf8bec510a777e4e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Cell
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1889
+        width: 248
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba21e6ec9c5c544d8917fa64cff0fa10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top Flap
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2926
+        width: 577
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40acf5275c4734dcd8f111a6ab13dde0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flap 2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2503
+        width: 566
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a4fbc22ff5a47d18a7f308f4efba85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sentry Body
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 3016
+        width: 272
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb82a9528d9e54303844e20e3edb3107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turret
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 3120
+        width: 196
+        height: 137
+      alignment: 9
+      pivot: {x: 0.64126897, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900a5b0c5afb44d0282aab737dd16f38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 3016
+        width: 115
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8015007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926f2e8f86d0f4e0b8f5e41770cc13d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Projectile
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 3062
+        width: 86
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 0.70016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74aae7c872d843b1a0d2d0d615b61b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goram Turret
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2747
+        width: 440
+        height: 516
+      alignment: 9
+      pivot: {x: 0.51047033, y: 0.13838658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fc4c00f14094691bbea95f54fec1bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goram Laser
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 2744
+        width: 219
+        height: 450
+      alignment: 9
+      pivot: {x: 0.4999989, y: 0.23892416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72f1a095a50a4eb992a771b1eda2822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goram Missile Launcher
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 2484
+        width: 615
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdea9e5cb2235418dac6996bb6b6ef7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 92cd963a7baa640f4988c54a189fb3f0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
